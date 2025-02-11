@@ -10,7 +10,6 @@
   </p>
 </p>
 
----
 
 ### Table of Contents
 
