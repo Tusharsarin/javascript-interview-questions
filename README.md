@@ -1,7 +1,5 @@
 # JavaScript Interview Questions & Answers
 
----
-
 <p align="center">
   <p align="center">
     <ol>
